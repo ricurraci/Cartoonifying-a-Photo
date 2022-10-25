@@ -1,15 +1,12 @@
 # Cartoonifying-a-Photo
 
-Progetto per il Laboratorio di Intelligenza Artificiale e Grafica Interattiva
-
-Appello Ottobre 2022
-
 Il progetto consiste nel prendere in input una immagine e restituire in output la sua versione cartonizzata
 
 Come compilare il programma:
 
          cd src
          mkdir -p build
+         cd build
          cmake ..
          make
          
