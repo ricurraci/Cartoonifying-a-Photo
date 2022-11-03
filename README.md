@@ -8,12 +8,11 @@ Come compilare il programma:
          mkdir -p build
          cd build
          cmake ..
-         cd ..
          make
          
 Come eseguire il programma:
 
-         ./build/cartoonifying
+         ./cartoonifying
 
 Basato sull'articolo "Toonify: Cartoon Photo Effect Application" 
 
